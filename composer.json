@@ -1,5 +1,8 @@
 {
-    "name": "jakub-onderka/php-console-highlighter",
+    "name": "scheldejonas/jakub-onderka-php-console-highlighter",
+    "replace": {
+        "jakub-onderka/php-console-highlighter": "*"
+    },
     "description": "Highlight PHP code in terminal",
     "type": "library",
     "license": "MIT",
